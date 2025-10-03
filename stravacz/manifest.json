@@ -1,0 +1,8 @@
+{
+  "domain": "stravacz",
+  "name": "Strava.cz (jídelna) – dummy",
+  "version": "0.0.1",
+  "codeowners": ["@you"],
+  "iot_class": "local_polling",
+  "loggers": ["custom_components.stravacz"]
+}
